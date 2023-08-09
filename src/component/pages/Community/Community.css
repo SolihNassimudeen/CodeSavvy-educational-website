@@ -1,0 +1,16 @@
+.community-image {
+  width: 100%;
+  border-radius: 2rem;
+}
+.community-second-div {
+  display: flex;
+  flex-direction: column;
+  gap: 3.2rem;
+  align-items: start;
+}
+.community-second-div p {
+  font-size: 1.6rem;
+  line-height: 1.6;
+  margin-bottom: 2rem;
+  color: var(--secondary-color);
+}

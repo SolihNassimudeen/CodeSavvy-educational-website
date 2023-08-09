@@ -1,0 +1,29 @@
+.pricing-details {
+  margin-top: 4.8rem;
+  gap: 4.8rem;
+}
+.pricing-card {
+  box-shadow: rgba(0, 0, 0, 0.15) 0px 5px 15px 0px;
+  transition: all 0.4s;
+}
+.pricing-card:hover {
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+  transform: translateY(-10px);
+}
+.card-heading {
+  padding: 2rem 4rem;
+  text-align: center;
+  line-height: 2;
+  border-bottom: 1px solid rgba(153, 153, 153, 0.203);
+}
+.features-div {
+  padding: 3.6rem;
+  font-size: 1.6rem;
+  line-height: 1.8;
+}
+.pricing-btn {
+  display: flex;
+  justify-content: center;
+
+  margin-top: 3rem;
+}
